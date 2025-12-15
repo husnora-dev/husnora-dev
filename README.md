@@ -22,5 +22,5 @@ Hello! I’m Husnora.  I am a student who is committed to continuous growth, gai
 - Build a career as a **Data Analyst** in a leading company in **Canada, Japan, or Switzerland**  
 
  Contact
-- **Telegram:** [t.me/husnorik1411](https://t.me/husnorik1411)  
+- **Linkedin:** [linkedin.com/husnoraqarshiyeva](www.linkedin.com/in/husnoraqarshiyeva)  
 - **GitHub:** [github.com/husnora-dev](https://github.com/husnora-dev)  
