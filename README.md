@@ -21,6 +21,7 @@ Hello! I’m Husnora.  I am a student who is committed to continuous growth, gai
 - Obtain an **IELTS Band 8+ certificate**  
 - Build a career as a **Data Analyst** in a leading company in **Canada, Japan, or Switzerland**  
 
- Contact
-- **Linkedin:** [linkedin.com/husnoraqarshiyeva](www.linkedin.com/in/husnoraqarshiyeva)  
-- **GitHub:** [github.com/husnora-dev](https://github.com/husnora-dev)  
+ 📬 Contact
+- **LinkedIn:** [husnoraqarshiyeva](https://www.linkedin.com/in/husnoraqarshiyeva/)
+- **GitHub:** [husnora-dev](https://github.com/husnora-dev)
+
